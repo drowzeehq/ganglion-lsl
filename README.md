@@ -1,3 +1,5 @@
+# ganglion-lsl
+
 Stream data from OpenBCI Ganglion to the Lab Streaming Layer (LSL).
 
 ⚠️ Currently only works with osx
