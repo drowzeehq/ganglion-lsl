@@ -1,0 +1,8 @@
+{
+  "name": "ganglion-lsl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:drowzeehq/ganglion-lsl.git",
+  "author": "Lars Karbo <mail@larskarbo.no>",
+  "license": "MIT"
+}
